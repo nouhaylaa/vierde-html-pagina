@@ -1,0 +1,13 @@
+body { 
+    color: darkblue;
+    background-color: lightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.blackandblue-border {
+    border: 5px solid black;
+    background-color: lightskyblue;
+}
+#cyan-background {
+    background-color: lightcyan;
+    font-size: 12px;
+}
